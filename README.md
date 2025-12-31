@@ -10,3 +10,7 @@ This repository contains data analysis on obesity levels based on eating habits 
 ## Dataset
 
 The analysis uses the [Estimation of Obesity Levels Based on Eating Habits and Physical Condition dataset](https://doi.org/10.24432/C5H31Z) from the UCI Machine Learning Repository.
+
+## Authors
+
+Made by Mohamed El Amine Kherroubi and Bousdjira Nadine. The code and documentation have been refactored and optimized with AI-assisted tools for improved readability and efficiency.
